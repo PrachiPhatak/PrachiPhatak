@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PrachiPhatak
-- 👀 I’m interested in becoming expert at using GitHub, Java, Spring, DB, front-end technologies, aws..
+- 👀 I’m interested in creating new libraries, logos, APIs.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on Github
 - 📫 https://prachiphatak.github.io/portfolio/contactMe.html.
