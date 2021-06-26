@@ -2,7 +2,7 @@
 - 👀  &ensp; I’m interested in <b>creating new libraries, logos, APIs</b>.
 - 🌱  &ensp; I’m currently working on <b>Java</b>.
 - 💞️  &ensp; I’m looking to collaborate on Github
-- 📫  &ensp; <a href="https://prachiphatak.github.io/portfolio/contactMe.html"> Contact Me.</a>
+- 📫  &ensp; <a href="https://prachipersonal.github.io/Portfolio/"> Contact Me.</a>
 
 <!---
 PrachiPhatak/PrachiPhatak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
