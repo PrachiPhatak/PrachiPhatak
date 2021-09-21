@@ -1,5 +1,5 @@
-- 👋  &ensp; Hi, I’m @PrachiPhatak
-- 👀  &ensp; I’m full-stack developer.
+- 👋  &ensp; Hi, I’m @PrachiPhatak. I’m full-stack developer.
+- 👀  &ensp; Connect with  <a href="https://www.linkedin.com/in/prachi-phatak/">me</a> on LinkedIn
 - 🌱  &ensp; I’m currently working on <a href="https://devsplash.io/">My capstone project</a>.
 - 📫  &ensp; <a href="https://prachipersonal.github.io/Portfolio/"> Contact Me.</a>
 
