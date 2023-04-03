@@ -13,4 +13,4 @@
 ```
 - The languages I recently used:
 ```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prachiphatak&theme=vue-dark)](https://github.com/prachiphatak/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrachiPhatak&hide_progress=true)](https://github.com/PrachiPhatak/github-readme-stats)
