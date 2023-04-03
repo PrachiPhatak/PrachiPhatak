@@ -6,7 +6,7 @@
 ```
 - Here are my statistics:
 ```
-![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=prachiphatak&theme=vue-dark&show_icons=true)
+![Prachi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrachiPhatak&theme=dark&show_icons=true)
 
 
 
